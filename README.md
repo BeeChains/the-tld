@@ -1,2 +1,2 @@
-# the-tld
+# the-tld | a Handshake top level domain
 THE-TLD
